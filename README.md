@@ -1,6 +1,6 @@
 # Work Management App
 
-This is backend for final project of Mobile Application course, you can get the client side [here](https://github.com/khang1010/work-management).
+This is backend for final project of Software Engineering course, you can get the client side [here](https://github.com/khang1010/se104_WorkManagement).
 
 # Getting Started
 Clone this repository
